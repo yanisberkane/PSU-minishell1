@@ -6,6 +6,7 @@ The interpreter is expected to display a prompt ( $> for example ) and then wait
 line, which must be validated by a newline.
 
 ## USAGE
+![image](https://user-images.githubusercontent.com/91698189/160261975-7ae9ca96-e347-461e-a365-70df80bc021e.png)
 
 ## Features
  - Executes basic commands.
